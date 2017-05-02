@@ -1,2 +1,2 @@
-# Data Science Specialization
-Repo for the Data Science Specialization (John's Hopkins University)
+# test-repo
+This is a test repo.
