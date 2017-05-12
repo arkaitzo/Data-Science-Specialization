@@ -5,7 +5,7 @@ download.file(
     destfile = "ss06hid.csv")
 download.file(
     "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FPUMSDataDict06.pdf",
-    destfile = "FPUMSDataDict06.pdf")
+    destfile = "PUMSDataDict06.pdf")
 dateDownloaded <- date()
 data <- read.csv("ss06hid.csv")
 # How many properties are worth $1,000,000 or more
